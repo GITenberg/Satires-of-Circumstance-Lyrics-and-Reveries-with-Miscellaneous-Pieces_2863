@@ -1,5 +1,5 @@
 _repo: Satires-of-Circumstance-Lyrics-and-Reveries-with-Miscellaneous-Pieces_2863
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 2863-h/images/coverb.jpg
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English poetry'
+- GITenberg
 title: Satires of Circumstance, Lyrics and Reveries, with Miscellaneous Pieces
 url: http://www.gutenberg.org/ebooks/2863
